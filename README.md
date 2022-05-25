@@ -7,7 +7,7 @@ This app works like music player for live radio from youtube, or music:
 - ✔️Portable version
 -  ✔️Notifications played track
 
-##Light Theme
+## Light Theme
 
 ![screenshot](https://srv44196.seohost.com.pl/screen.png)
 
@@ -16,7 +16,7 @@ This app works like music player for live radio from youtube, or music:
 [Download](https://srv44196.seohost.com.pl/youtube-radio-1-0.exe)
 
 
-##Dark Theme design by [Sklej w Sztyfcie](https://www.instagram.com/sklejwsztyfcie/)
+## Dark Theme design by [Sklej w Sztyfcie](https://www.instagram.com/sklejwsztyfcie/)
 
 ![screenshot](https://srv44196.seohost.com.pl/dark.png)
 
