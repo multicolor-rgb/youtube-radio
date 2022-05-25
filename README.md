@@ -3,7 +3,7 @@ This app works like music player for live radio from youtube, or music:
 
 **You can create own playlist on playlist btn** 
 - ✔️You can hide player to tray 
-- ✔️Very small usage Ram memory (2-5mb ram)
+- ✔️Very small usage RAM
 - ✔️ Portable version
 
 ![screenshot](https://srv44196.seohost.com.pl/screen.png)
